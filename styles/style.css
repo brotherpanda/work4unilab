@@ -1,0 +1,82 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+body{
+	padding: 40px;
+}
+
+.headtitle{
+	position: fixed;
+	text-align: center;
+	font-family: MyriadProRegular;
+	font-size: 18px;
+	top: 10px;
+	left: 50%;
+}
+
+.box{
+	background-color: #56836F;
+	height: 100%;
+	width: 100%;
+	padding: 3%;
+}
+
+
+.logo{
+	float: right;
+	width: 14.6%;
+}
+
+.headnav{
+	float: right;
+}
+
+.head{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.head1{
+	padding-right: 60px;
+	font-size: 48px;
+	color: white;
+	font-family: MyriadProRegular;
+}
+
+
+.divbox{
+	margin-top: 7.6%;
+}
+
+.divbox1{
+	width: 49%;
+	height: 45%;
+	background-color: #FCEE21;
+}
+
+.divbox1 p{
+	margin: 26px;
+	font-size: 14px;
+	font-family: SegoeUI;
+}
+
+.image2 img{
+	margin: 18px 32px 9px 22px;
+}
+.image1 img{
+	margin: 18px 26px 9px 22px;
+}
+
+.image2{
+	float: left;
+}
+.image1{
+	float: right;
+}
+
+.clear{
+	clear: both;
+}
