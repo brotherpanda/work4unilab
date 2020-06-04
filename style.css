@@ -47,33 +47,33 @@ body{
 }
 
 
-.article-box{
+.div-box{
 	margin-top: 7.6%;
 }
 
-.article{
+.div{
 	width: 49%;
 	height: 45%;
 	background-color: #FCEE21;
 }
 
-.article p{
+.div p{
 	margin: 26px;
 	font-size: 14px;
 	font-family: SegoeUI;
 }
 
-.article.f-left img{
+.div.image1 img{
 	margin: 18px 32px 9px 22px;
 }
-.article.f-right img{
+.div.image2 img{
 	margin: 18px 26px 9px 22px;
 }
 
-.f-left{
+.image1{
 	float: left;
 }
-.f-right{
+.image2{
 	float: right;
 }
 
